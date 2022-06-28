@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Alec - working for Unity Technologies 🎮 as a software developer. I write about React, GraphQL, and Privacy.
+I'm Alec - working for Unity Technologies 🎮 as a software developer. I write about Node.js, Deno, React, GraphQL, and Privacy.
 
 ## Some of my blog posts 📝
 
