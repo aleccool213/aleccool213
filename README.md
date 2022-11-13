@@ -5,6 +5,7 @@ I'm Alec - working for Unity Technologies 🎮 as a software developer. I write 
 ## Some of my blog posts 📝
 
 - [Ruck vs. Aleph.js for building React apps in Deno](https://blog.logrocket.com/ruck-aleph-building-react-apps-deno/)
+- [Using static site generation in modern React frameworks](https://blog.logrocket.com/using-static-site-generation-modern-react-frameworks/)
 - [Develop, test, and deploy Cloudflare Workers with Denoflare](https://blog.alec.coffee/develop-test-and-deploy-cloudflare-workers-with-denoflare)
 - [Why I (finally) switched to urql from Apollo Client](https://blog.alec.coffee/why-switched-apollo-client-urql/)
 - [Using Storybook to Develop React Components Faster](https://blog.alec.coffee/storybook-develop-react-components-faster/)
