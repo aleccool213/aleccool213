@@ -4,6 +4,7 @@ I'm Alec - working for Unity Technologies 🎮 as a software developer. I write 
 
 ## Some of my blog posts 📝
 
+- [Using modern decorators in TypeScript](https://blog.logrocket.com/using-modern-decorators-typescript/)
 - [Guide to version management with changesets](https://blog.logrocket.com/version-management-changesets/)
 - [Ruck vs. Aleph.js for building React apps in Deno](https://blog.logrocket.com/ruck-aleph-building-react-apps-deno/)
 - [Using static site generation in modern React frameworks](https://blog.logrocket.com/using-static-site-generation-modern-react-frameworks/)
